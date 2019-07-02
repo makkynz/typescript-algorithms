@@ -12,12 +12,20 @@ Example
 ---
 input is...
 5 4
+
 0 1 0 2 0 3 2 4
+
 output should be...
+
 0, 1, 2, 4, 3
 
+
 input is..
+
 4 3
+
 0 1 1 2 0 3
+
 out should be ..
+
 0 1 2 3
